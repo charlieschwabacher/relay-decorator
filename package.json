@@ -1,0 +1,25 @@
+{
+  "name": "relay-decorator",
+  "version": "1.0",
+  "description": "ES2015 decorator to create relay containers",
+  "keywords": [
+    "relay",
+    "graphql",
+    "react-relay"
+  ],
+  "license": "MIT",
+  "author": "Charlie Schwabacher: <coschwabacher@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlieschwabacher/relay-decorator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/charlieschwabacher/relay-decorator/issues"
+  },
+  "main": "relayDecorator.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "react-relay": "^0.3.4"
+  }
+}
