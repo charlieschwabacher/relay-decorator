@@ -1,6 +1,6 @@
 {
   "name": "relay-decorator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ES2015 decorator to create relay containers",
   "keywords": [
     "relay",
